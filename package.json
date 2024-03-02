@@ -1,9 +1,13 @@
 {
   "name": "weekender",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "whenmoo",
   "bugs": {
     "url": "https://github.com/whenmoo/weekender/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whenmoo/weekender.git"
   },
   "homepage": "https://github.com/whenmoo/weekender#readme",
   "license": "UNLICENSED",
